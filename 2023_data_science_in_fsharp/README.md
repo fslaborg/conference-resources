@@ -15,5 +15,6 @@ The conference took place in Berlin Novotel for 3 days (2023-09-28 - 2023-09-30)
 - **Day 2 - 2-track guided workshops (and community chosen discussion tables)**:
   - **Mathias Brandewinder**: 4 Levels of Linear Programming
   - [**Kevin Schneider and Benedikt Venn**: Deep dive data exploration and visualisation](https://github.com/bvenn/brewing-discoveries-workshop)
+-  **Day 3  - FsLab Hackathon**: The prepared issues for the more structured part of the hackathon can bee seen in [this project board](https://github.com/orgs/fslaborg/projects/6)  
 
 Speakers who want to share their slides can do so by creating a folder and optionally including a license of their choice that applies to their respective subfolder. 
