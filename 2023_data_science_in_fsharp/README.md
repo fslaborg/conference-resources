@@ -10,7 +10,7 @@ The conference took place in Berlin Novotel for 3 days (2023-09-28 - 2023-09-30)
   - **Benedikt Venn**: Working with sparse time series data in computational biology
   - **Mathias Brandewinder**: An Ode to Linear Programming
   - **Timo Mühlhaus**: Unleashing the Analytical Power of F#: Empowering Biotechnological Data Science Education and Research
-  - [**Kevin Schneider**: Writing libraries for the FsLab ecosystem]()
+  - [**Kevin Schneider**: Writing libraries for the FsLab ecosystem](./writing_libraries_for_the_fslab_ecosystem_Kevin_Schneider)
   - **Don Syme**: AI and Code: Two Projects from GitHub Next
 - **Day 2 - 2-track guided workshops (and community chosen discussion tables)**:
   - **Mathias Brandewinder**: 4 Levels of Linear Programming
