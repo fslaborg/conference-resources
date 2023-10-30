@@ -7,7 +7,7 @@ The conference took place in Berlin Novotel for 3 days (2023-09-28 - 2023-09-30)
   - **Evelina Gabasova**: The Real Problems of Data Science
   - **Harry McCarney**: Using Network Science to improve supply chain resilience
   - **Matthew Crews**: F# for the Analyst and the High-Performance Engineer
-  - **Benedikt Venn**: Working with sparse time series data in computational biology
+  - [**Benedikt Venn**: Working with sparse time series data in computational biology](./working_with_sparse_time_series_data_in_computational_biology)
   - **Mathias Brandewinder**: An Ode to Linear Programming
   - **Timo Mühlhaus**: Unleashing the Analytical Power of F#: Empowering Biotechnological Data Science Education and Research
   - [**Kevin Schneider**: Writing libraries for the FsLab ecosystem](./writing_libraries_for_the_fslab_ecosystem_Kevin_Schneider)
