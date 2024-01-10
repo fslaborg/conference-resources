@@ -5,7 +5,7 @@ The conference took place in Berlin Novotel for 3 days (2023-09-28 - 2023-09-30)
   - **Tomas Petricek**: Designing composable functional libraries, not just for data visualisation
   - **Nicholas Hirschey**: Foundations of Portfolio Choice
   - **Evelina Gabasova**: The Real Problems of Data Science
-  - **Harry McCarney**: Using Network Science to improve supply chain resilience
+  - [**Harry McCarney**: Using Network Science to improve supply chain resilience](./using_network_science_to_improve_supply_chain_resilience)
   - [**Matthew Crews**: F# for the Analyst and the High-Performance Engineer](./fsharp_for_the_analyst_and_the_high_performance_engineer)
   - [**Benedikt Venn**: Working with sparse time series data in computational biology](./working_with_sparse_time_series_data_in_computational_biology)
   - [**Mathias Brandewinder**: An Ode to Linear Programming](./an_ode_to_linear_programming)
